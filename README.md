@@ -1,1 +1,2 @@
 # GeekBrains
+Практика pandas
